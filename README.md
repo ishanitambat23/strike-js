@@ -1,1 +1,1 @@
-# strick.js
+# strike.js
