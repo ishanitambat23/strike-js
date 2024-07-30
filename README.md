@@ -1,2 +1,2 @@
-# projectile-js
+# strike-js
 A projectile game built using vanilla JavaScript
